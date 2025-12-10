@@ -21,6 +21,7 @@ El objetivo principal es estudiar el comportamiento del sistema en términos de 
 - `visualizar_resultados.py`: Genera gráficos para visualizar los resultados (Convergencia, Speedup, Eficiencia) a partir de los datos procesados anteriormente.
 - `resultados_mpi.csv`: Datos crudos generados por el programa C.
 - `resultado_final_graficar.csv`: Datos procesados listos para visualización.
+- Se generaron resultados ejecutando en el cluster de UNC-FAMAF, con 28 procesadores, en la carpeta /Resultados
 
 ---
 
